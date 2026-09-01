@@ -1,35 +1,35 @@
-﻿# Hi, I'm Shayan Shah 👋
+# Hi, I'm Shayan Shah 👋
 
 ### AI Systems & Machine Learning Engineer
-*Building reliable computer vision pipelines, intelligent automation systems, and full-stack AI applications.*
+*Designing reliable computer vision pipelines, intelligent automation tools, and full-stack software architectures.*
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Working on: **Real-Time Computer Vision Systems**, **Applied Machine Learning Pipelines**, and **Autonomous Agent Tooling**.
-- 🛠️ Core Focus: Scalable inference, document intelligence, object detection with YOLOv8, and modern full-stack developer utilities.
-- 🌱 Currently deepening knowledge in: Edge AI inference, multimodal agents, and high-performance backend architectures.
-- 💬 Ask me about: **Python**, **Computer Vision (OpenCV / YOLO)**, **FastAPI**, **TypeScript / React**, and **Machine Learning Models**.
+- 🔭 **Specialization**: Real-Time Computer Vision (YOLOv8 / OpenCV), Applied Machine Learning, and Autonomous Sandboxed Systems.
+- 🛠️ **Engineering Principles**: Clean modular architecture, deterministic test coverage, low-latency inference, and human-centric software design.
+- 🌱 **Learning & Research**: Edge AI deployment, high-throughput backend systems, and multimodal vision models.
+- 💬 **Ask Me About**: Python, OpenCV, YOLO, FastAPI, TypeScript/React, Scikit-Learn, and Database Engineering.
 
 ---
 
-## 🛠️ Technical Stack & Tooling
+## 🛠️ Technical Arsenal
 
 ```
-  Languages        : Python, TypeScript, JavaScript, SQL, HTML5, CSS3
-  Machine Learning : PyTorch, Scikit-Learn, YOLOv8 (Ultralytics), OpenCV, NumPy, Pandas
-  Backend & APIs   : FastAPI, Uvicorn, REST APIs, WebSockets, SQLite, PostgreSQL
-  Frontend         : React 18, Vite, Next.js, Tailwind CSS, Lucide Icons
-  Tools & DevOps   : Git, GitHub, Docker, Postman, VS Code, Linux / Windows Environment
+  Languages         : Python, TypeScript, JavaScript, SQL, HTML5, CSS3, Bash/PowerShell
+  Machine Learning  : PyTorch, Scikit-Learn, YOLOv8 (Ultralytics), OpenCV, NumPy, Pandas
+  Backend & APIs    : FastAPI, Uvicorn, RESTful Architectures, WebSockets, SQLite, PostgreSQL
+  Frontend & UI/UX  : React 18, Next.js 14, TypeScript, Tailwind CSS, Vite, Streamlit
+  DevOps & Tooling  : Git, GitHub Actions, Docker, Linux, VS Code, Postman
 ```
 
-| Area | Technologies |
+| Domain | Core Stack & Frameworks |
 | :--- | :--- |
-| **Machine Learning & AI** | PyTorch, Scikit-Learn, YOLOv8, OpenCV, NumPy, Pandas, Haar Cascades |
-| **Backend & Architecture** | FastAPI, Python 3.12, Asynchronous WebSockets, RESTful API Design, SQLite |
-| **Frontend & UI/UX** | React 18, TypeScript, Tailwind CSS, Vite, Next.js 14, Responsive Layouts |
-| **Workflow & Tooling** | Git, GitHub Actions CI, Docker, VS Code, Postman, Windows Automation |
+| **Machine Learning & CV** | PyTorch, Scikit-Learn, YOLOv8, OpenCV, NumPy, Pandas, Haar Cascades, HOG |
+| **Backend Engineering** | FastAPI, Python 3.12, Async WebSockets, REST APIs, SQLite, Pydantic |
+| **Frontend Development** | React 18, TypeScript, Tailwind CSS, Next.js 14, Vite, Streamlit |
+| **Tooling & Environments** | Git, GitHub Actions CI, Docker, VS Code, Postman, Shell Scripting |
 
 ---
 
@@ -40,23 +40,29 @@
 - Sub-50ms inference with multi-model selection (`yolov8n`, `yolov8s`, `yolov8m`).
 - Interactive bounding box confidence thresholding, webcam streaming, class filtering, and analytics export.
 
-### 🧪 [Decodelabs](https://github.com/Shaayan-shah/Decodelabs)
-> **Applied Machine Learning & Python Engineering Laboratory**.
-- Production-ready implementations of MNIST Handwritten Digit Recognition, SMS Spam Classification with TF-IDF, and Real-Time Haar Cascade Detection.
-- Modularized clean architecture covering foundations to applied predictive models.
+### 🛡️ [Smart-Sentinel-AI](https://github.com/Shaayan-shah/smart-sentinel-ai)
+> **AI-Powered Security Camera & Real-Time Video Surveillance Platform**.
+- Live video stream processing, motion trigger analytics, intrusion event logging, and WebSocket telemetry.
 
 ### 📄 [DocuFlow](https://github.com/Shaayan-shah/docu-flow)
 > **Enterprise Document & Invoice Intelligence Platform**.
-- Automated invoice data extraction, line-item parsing, visual document bounding-box inspector, and spend analytics.
-- Full-stack FastAPI + React + Tailwind financial dashboard.
+- Automated invoice data extraction, line-item parsing, visual bounding-box inspector, and spend analytics with FastAPI + React.
 
-### ⚡ [Apex Pulse](https://github.com/Shaayan-shah/apex-pulse)
-> **Next.js 14 Full-Stack SaaS Management Platform**.
-- Dynamic AI studio dashboard, billing workflows, project lifecycle management, and clean dark-mode UI.
+### 🤖 [Agentix-Pro](https://github.com/Shaayan-shah/agentix-pro)
+> **Autonomous Sandboxed Code & Task Execution Agent**.
+- Multi-step ReAct state machine orchestrating Python/PowerShell code synthesis with isolated subprocess execution.
+
+### 🐍 [Python-Learning-From-Zero (30-Day Master Course)](https://github.com/Shaayan-shah/Python-Learning-From-Zero)
+> **Comprehensive 30-Day Python Mastery Course**.
+- Industry-aligned 30-day curriculum with daily labs, code implementations, exercises, and an OOP capstone application.
+
+### 🧪 [Decodelabs](https://github.com/Shaayan-shah/Decodelabs)
+> **Applied Machine Learning & Python Engineering Laboratory**.
+- Production-ready implementations of conversational engines, NLP models, and computer vision utilities.
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shaayan-shah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shayan's GitHub Stats" />
@@ -65,12 +71,12 @@
 
 ---
 
-## 📬 Connect With Me
+## 📬 Contact & Collaboration
 
 - 📧 Email: **[shayanshah.edu.pk@gmail.com](mailto:shayanshah.edu.pk@gmail.com)**
 - 🐙 GitHub: **[@Shaayan-shah](https://github.com/Shaayan-shah)**
 
 ---
 <div align="center">
-  <sub>Crafted with precision • Open to collaboration on Computer Vision & Machine Learning projects</sub>
+  <sub>Engineered with precision • Open to collaboration on Machine Learning & Computer Vision systems</sub>
 </div>
