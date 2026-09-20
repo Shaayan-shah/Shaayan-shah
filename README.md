@@ -1,82 +1,75 @@
-# Hi, I'm Shayan Shah 👋
+# Shayan Shah
 
-### AI Systems & Machine Learning Engineer
-*Designing reliable computer vision pipelines, intelligent automation tools, and full-stack software architectures.*
-
----
-
-## 🚀 About Me
-
-- 🔭 **Specialization**: Real-Time Computer Vision (YOLOv8 / OpenCV), Applied Machine Learning, and Autonomous Sandboxed Systems.
-- 🛠️ **Engineering Principles**: Clean modular architecture, deterministic test coverage, low-latency inference, and human-centric software design.
-- 🌱 **Learning & Research**: Edge AI deployment, high-throughput backend systems, and multimodal vision models.
-- 💬 **Ask Me About**: Python, OpenCV, YOLO, FastAPI, TypeScript/React, Scikit-Learn, and Database Engineering.
+### AI Systems & Computer Vision Engineer
+Real-time computer vision pipelines, embedded robotics algorithms, and machine learning architectures.
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Profile
 
-```
-  Languages         : Python, TypeScript, JavaScript, SQL, HTML5, CSS3, Bash/PowerShell
-  Machine Learning  : PyTorch, Scikit-Learn, YOLOv8 (Ultralytics), OpenCV, NumPy, Pandas
-  Backend & APIs    : FastAPI, Uvicorn, RESTful Architectures, WebSockets, SQLite, PostgreSQL
-  Frontend & UI/UX  : React 18, Next.js 14, TypeScript, Tailwind CSS, Vite, Streamlit
-  DevOps & Tooling  : Git, GitHub Actions, Docker, Linux, VS Code, Postman
-```
+* **Core Focus**: Real-time computer vision (OpenCV, MediaPipe, YOLOv8), applied machine learning (Scikit-Learn, PyTorch), and robotics control systems.
+* **Engineering Standards**: Deterministic test suites, rotation-invariant geometry, low-latency inference, and modular system design.
+* **Current Engagement**: Progree Artificial Intelligence & Robotics Internship.
 
-| Domain | Core Stack & Frameworks |
+---
+
+## Technical Skills
+
+| Discipline | Technologies & Frameworks |
 | :--- | :--- |
-| **Machine Learning & CV** | PyTorch, Scikit-Learn, YOLOv8, OpenCV, NumPy, Pandas, Haar Cascades, HOG |
-| **Backend Engineering** | FastAPI, Python 3.12, Async WebSockets, REST APIs, SQLite, Pydantic |
-| **Frontend Development** | React 18, TypeScript, Tailwind CSS, Next.js 14, Vite, Streamlit |
-| **Tooling & Environments** | Git, GitHub Actions CI, Docker, VS Code, Postman, Shell Scripting |
+| **Languages** | Python, C++, TypeScript, JavaScript, SQL, Bash, PowerShell |
+| **Computer Vision & ML** | OpenCV, MediaPipe, YOLOv8, PyTorch, Scikit-Learn, NumPy, Pandas |
+| **Robotics & Embedded** | Closed-Loop PID Control, 3-DOF Kinematics (Forward/Inverse), Arduino C++, PLC Sequence Logic |
+| **Backend & APIs** | FastAPI, RESTful Architecture, WebSockets, SQLite, Pydantic, Streamlit |
+| **Developer Tooling** | Git, GitHub Actions, Docker, Linux, VS Code, Postman |
 
 ---
 
-## 🌟 Featured Projects
+## Featured Engineering Projects
 
-### 🎯 [Object-Detection-Project-](https://github.com/Shaayan-shah/Object-Detection-Project-)
-> **Full-Stack Real-Time Object Detection Suite** powered by YOLOv8, FastAPI, and React.
-- Sub-50ms inference with multi-model selection (`yolov8n`, `yolov8s`, `yolov8m`).
-- Interactive bounding box confidence thresholding, webcam streaming, class filtering, and analytics export.
+### [DualHand-Vision](https://github.com/Shaayan-shah/DualHand-Vision)
+Real-time computer vision system that tracks both hands simultaneously, isolates 21 three-dimensional skeletal joints per hand, and computes extended finger counts across a 0 to 10 range.
+* Replaces naive Y-coordinate thresholding with rotation-invariant Euclidean distance ratios from wrist origin and pinky MCP anchor points.
+* Computes radial thumb abduction, selfie mirror-mode correction, and static gesture classification.
+* Dual interface: high-throughput direct OpenCV desktop window (30+ FPS) and interactive Streamlit web dashboard.
+* Developed for the Progree Artificial Intelligence Internship program.
 
-### 🛡️ [Smart-Sentinel-AI](https://github.com/Shaayan-shah/smart-sentinel-ai)
-> **AI-Powered Security Camera & Real-Time Video Surveillance Platform**.
-- Live video stream processing, motion trigger analytics, intrusion event logging, and WebSocket telemetry.
+### [Progree-Internship-Tasks](https://github.com/Shaayan-shah/Progree-Internship-Tasks)
+Comprehensive engineering submission archive across Robotics & Automation and Artificial Intelligence specializations.
+* **Robotics & Automation**: Closed-loop PID line follower simulation with anti-windup clamping, Arduino C++ firmware, analytical 3-DOF planar robotic arm forward and inverse kinematics solvers, and smart conveyor PLC sequence logic with edge telemetry logging.
+* **Artificial Intelligence**: Multi-class text sentiment classification with TF-IDF vectorization and regularized logistic regression, heuristic A* and Dijkstra 2D grid pathfinding engine, and adaptive contour object detection pipeline with polygon shape approximation.
 
-### 📄 [DocuFlow](https://github.com/Shaayan-shah/docu-flow)
-> **Enterprise Document & Invoice Intelligence Platform**.
-- Automated invoice data extraction, line-item parsing, visual bounding-box inspector, and spend analytics with FastAPI + React.
+### [VisionFlow-ObjectDetection-Pro](https://github.com/Shaayan-shah/VisionFlow-ObjectDetection-Pro)
+Production-grade real-time object detection and visual analytics suite powered by YOLOv8, OpenCV, and Streamlit.
+* Supports live camera feeds, video files, and high-resolution images with real-time confidence tuning and class filtering.
+* Includes Region of Interest (ROI) entry/exit counting, speed estimation, and automated CSV telemetry export.
 
-### 🤖 [Agentix-Pro](https://github.com/Shaayan-shah/agentix-pro)
-> **Autonomous Sandboxed Code & Task Execution Agent**.
-- Multi-step ReAct state machine orchestrating Python/PowerShell code synthesis with isolated subprocess execution.
+### [Smart-Sentinel-AI](https://github.com/Shaayan-shah/smart-sentinel-ai)
+Intelligent security camera and real-time surveillance platform.
+* Ingests video streams, detects motion triggers, logs intrusion events with timestamps, and streams live frame analytics via WebSockets and FastAPI.
 
-### 🐍 [Python-Learning-From-Zero (30-Day Master Course)](https://github.com/Shaayan-shah/Python-Learning-From-Zero)
-> **Comprehensive 30-Day Python Mastery Course**.
-- Industry-aligned 30-day curriculum with daily labs, code implementations, exercises, and an OOP capstone application.
+### [DocuFlow](https://github.com/Shaayan-shah/docu-flow)
+Enterprise document and invoice intelligence application.
+* Automates document parsing, tabular line-item extraction, visual bounding-box inspection, and financial analytics with a FastAPI backend and React frontend.
 
-### 🧪 [Decodelabs](https://github.com/Shaayan-shah/Decodelabs)
-> **Applied Machine Learning & Python Engineering Laboratory**.
-- Production-ready implementations of conversational engines, NLP models, and computer vision utilities.
+### [Python-Learning-From-Zero](https://github.com/Shaayan-shah/Python-Learning-From-Zero)
+Structured 30-day foundational and advanced Python curriculum.
+* Includes daily problem sets, algorithmic implementations, unit tests, and an object-oriented capstone software application.
 
 ---
 
-## 📈 GitHub Metrics
+## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaayan-shah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shayan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaayan-shah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaayan-shah&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Shayan Shah's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaayan-shah&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 📬 Contact & Collaboration
+## Contact & Profile Information
 
-- 📧 Email: **[shayanshah.edu.pk@gmail.com](mailto:shayanshah.edu.pk@gmail.com)**
-- 🐙 GitHub: **[@Shaayan-shah](https://github.com/Shaayan-shah)**
+* **Email**: [shayanshah.edu.pk@gmail.com](mailto:shayanshah.edu.pk@gmail.com)
+* **GitHub**: [@Shaayan-shah](https://github.com/Shaayan-shah)
+* **Location**: Swabi, KPK, Pakistan
 
----
-<div align="center">
-  <sub>Engineered with precision • Open to collaboration on Machine Learning & Computer Vision systems</sub>
-</div>
