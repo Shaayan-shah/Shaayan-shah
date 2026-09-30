@@ -1,7 +1,7 @@
 # Shayan Shah
 
 ### AI Systems & Computer Vision Engineer
-Real-time computer vision pipelines, embedded robotics algorithms, and machine learning architectures.
+Real-time computer vision pipelines, embedded robotics algorithms, and autonomous reasoning architectures.
 
 ---
 
@@ -9,7 +9,7 @@ Real-time computer vision pipelines, embedded robotics algorithms, and machine l
 
 * **Core Focus**: Real-time computer vision (OpenCV, MediaPipe, YOLOv8), applied machine learning (Scikit-Learn, PyTorch), and robotics control systems.
 * **Engineering Standards**: Deterministic test suites, rotation-invariant geometry, low-latency inference, and modular system design.
-* **Current Engagement**: Progree Artificial Intelligence & Robotics Internship.
+* **Current Engagement**: Progree Artificial Intelligence & Robotics Specialization.
 
 ---
 
@@ -25,7 +25,21 @@ Real-time computer vision pipelines, embedded robotics algorithms, and machine l
 
 ---
 
+## Engineering Methodology
+
+* **Deterministic Validation**: Replacing brittle heuristics with verifiable geometric proofs, rotation-invariant anchor vectors, and ground-truth validation suites.
+* **Low-Latency Architecture**: Zero-overhead frame pipelines in OpenCV with numpy vectorization, multi-threading, and minimal memory allocation during inference loops.
+* **Modular Decoupling**: Strict separation between core numerical models, video ingestion workers, and presentation layers (Streamlit dashboards, WebSockets, REST APIs).
+
+---
+
 ## Featured Engineering Projects
+
+### [OmniBio-Vision-Pro](https://github.com/Shaayan-shah/OmniBio-Vision-Pro)
+Modular multi-modal biometric computer vision platform structured into three specialized sub-systems:
+* **Body Part & Pose Tracker**: YOLOv8-Pose engine tracking 17 anatomical keypoints, calculating dynamic joint flexion angles, and classifying posture states.
+* **Both Hands & Finger Counter**: Simultaneous dual-hand 21-joint skeleton tracking with 0 to 10 finger count resolution, waving detection, and rotation-invariant reference frames.
+* **Facial Expression Studio**: Dynamic facial landmark analysis computing Eye Aspect Ratio (EAR) for blink dynamics and Mouth Aspect Ratio (MAR) for smile and micro-expression classification.
 
 ### [DualHand-Vision](https://github.com/Shaayan-shah/DualHand-Vision)
 Real-time computer vision system that tracks both hands simultaneously, isolates 21 three-dimensional skeletal joints per hand, and computes extended finger counts across a 0 to 10 range.
@@ -69,7 +83,7 @@ Structured 30-day foundational and advanced Python curriculum.
 
 ## Contact & Profile Information
 
+* **LinkedIn**: [linkedin.com/in/shaayanshah](https://www.linkedin.com/in/shaayanshah)
 * **Email**: [shayanshah.edu.pk@gmail.com](mailto:shayanshah.edu.pk@gmail.com)
 * **GitHub**: [@Shaayan-shah](https://github.com/Shaayan-shah)
 * **Location**: Swabi, KPK, Pakistan
-
