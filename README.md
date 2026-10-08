@@ -35,6 +35,13 @@ Real-time computer vision pipelines, embedded robotics algorithms, and autonomou
 
 ## Featured Engineering Projects
 
+### [DefectVision-QA](https://github.com/Shaayan-shah/DefectVision-QA)
+Automated industrial surface defect detection and quality assurance computer vision pipeline.
+* Integrates CLAHE illumination normalization, bilateral edge-preserving filtering, and symmetrical morphological gradient segmentation.
+* Features rotation-invariant minimum bounding rectangle aspect ratio calculation, convex hull solidity metrics, and automated classification across CRACK, SCRATCH, SURFACE_VOID, and BLEMISH categories.
+* Supports both reference-free morphological inspection and ORB/homography-aligned golden-template differential comparison.
+* Dual interface: sub-30ms real-time camera runner with live HUD overlay and interactive Streamlit web dashboard with ISO-compliant JSON/CSV audit logging.
+
 ### [OmniBio-Vision-Pro](https://github.com/Shaayan-shah/OmniBio-Vision-Pro)
 Modular multi-modal biometric computer vision platform structured into three specialized sub-systems:
 * **Body Part & Pose Tracker**: YOLOv8-Pose engine tracking 17 anatomical keypoints, calculating dynamic joint flexion angles, and classifying posture states.
