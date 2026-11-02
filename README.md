@@ -1,32 +1,33 @@
 # Shayan Shah
 
-AI systems and computer vision engineer
+**AI Systems & Machine Learning Engineer | Computer Vision | Automation**
 
-I build applied projects in computer vision, machine learning, robotics, and automation, with a focus on practical implementations and clear, testable behavior.
+I build applied software across computer vision, machine learning, and automation. My projects range from real-time vision systems and intelligent workflows to practical desktop and web applications. I value clear engineering, useful documentation, and solutions grounded in real problems.
 
-## Areas of interest
+## Technical areas
 
-- **Computer vision:** OpenCV, MediaPipe, YOLOv8
-- **Machine learning:** PyTorch, scikit-learn, NumPy, pandas
-- **Robotics and automation:** PID control, kinematics, Arduino C++, PLC logic
-- **Software and APIs:** Python, C++, TypeScript, FastAPI, REST APIs, SQLite
+- Computer vision, image processing, and real-time perception
+- Applied machine learning and intelligent automation
+- API and full-stack application development
+- Robotics and embedded systems
+
+## Technologies
+
+- **Languages:** Python, C++, TypeScript
+- **AI and computer vision:** OpenCV, MediaPipe, YOLOv8, PyTorch, scikit-learn, NumPy, pandas
+- **Application development:** FastAPI, React, Streamlit, REST APIs, SQLite
 
 ## Selected projects
 
-### [Voice Studio](https://github.com/Shaayan-shah/voice-studio)
-
-A local-first Windows app for turning scripts and documents into speech, using offline Windows voices or optional online neural voices.
-
-### [DefectVision-QA](https://github.com/Shaayan-shah/DefectVision-QA)
-
-A computer-vision project for detecting surface defects and supporting quality-inspection workflows.
-
-### [DualHand-Vision](https://github.com/Shaayan-shah/DualHand-Vision)
-
-A real-time hand-tracking project that counts extended fingers and classifies gestures using geometric measurements.
+- **[VisionFlow Object Detection](https://github.com/Shaayan-shah/VisionFlow-ObjectDetection-Pro)** — YOLOv8 and OpenCV application for object detection in images, videos, and webcam streams, with region-of-interest monitoring and visual analytics.
+- **[DefectVision-QA](https://github.com/Shaayan-shah/DefectVision-QA)** — Surface-defect inspection pipeline with reference-free and golden-sample comparison workflows.
+- **[DualHand-Vision](https://github.com/Shaayan-shah/DualHand-Vision)** — Real-time dual-hand tracking, gesture classification, and landmark-based finger counting.
+- **[Agentix Pro](https://github.com/Shaayan-shah/agentix-pro)** — Multi-step task execution platform with sandboxed code runs and generated artifacts.
+- **[DocuFlow](https://github.com/Shaayan-shah/docu-flow)** — Full-stack document and invoice processing application with review and structured export workflows.
+- **[Voice Studio](https://github.com/Shaayan-shah/voice-studio)** — Local-first Windows text-to-speech app with offline voices and optional online voice services.
+- **[ScanDesk](https://github.com/Shaayan-shah/ScanDesk)** — Browser-based QR and barcode scanner and generator. [Try the demo](https://shaayan-shah.github.io/ScanDesk/dist/).
 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/shaayanshah)
 - [Email](mailto:shayanshah.edu.pk@gmail.com)
-- [GitHub](https://github.com/Shaayan-shah)
