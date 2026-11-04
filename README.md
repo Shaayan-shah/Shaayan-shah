@@ -24,6 +24,7 @@ I build applied software across computer vision, machine learning, and automatio
 - **[DualHand-Vision](https://github.com/Shaayan-shah/DualHand-Vision)** — Real-time dual-hand tracking, gesture classification, and landmark-based finger counting.
 - **[Agentix Pro](https://github.com/Shaayan-shah/agentix-pro)** — Multi-step task execution platform with sandboxed code runs and generated artifacts.
 - **[DocuFlow](https://github.com/Shaayan-shah/docu-flow)** — Full-stack document and invoice processing application with review and structured export workflows.
+- **[TakeCheck](https://github.com/Shaayan-shah/takecheck)** — Local-first CLI for audio-delivery checks, with loudness measurements and CI-ready reports.
 - **[Voice Studio](https://github.com/Shaayan-shah/voice-studio)** — Local-first Windows text-to-speech app with offline voices and optional online voice services.
 - **[ScanDesk](https://github.com/Shaayan-shah/ScanDesk)** — Browser-based QR and barcode scanner and generator. [Try the demo](https://shaayan-shah.github.io/ScanDesk/dist/).
 
